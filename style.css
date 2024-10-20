@@ -1,7 +1,10 @@
 body{
     background: black;
     color: pink;
+    margin: 0px;
 }
 header{
     border-bottom: solid 2px rgb(42, 122, 228);
+    padding: 1000px;
+    background-color:white;
 }
